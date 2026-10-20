@@ -7,11 +7,11 @@
     },
     "id": "geode.loader",
     "version": "@PROJECT_VERSION@@PROJECT_VERSION_SUFFIX@",
-    "name": "Geode",
-    "developer": "Geode Team",
-    "description": "The Geode mod loader",
+    "name": "Lamb Geode",
+    "developer": "Lamb Team",
+    "description": "The Lamb GDPS mod loader",
     "links": {
-        "community": "https://discord.com/invite/9e43WMKzhp",
+        "community": "https://discord.gg/tHK8UHEneu",
         "homepage": "https://geode-sdk.org",
         "source": "https://github.com/geode-sdk/geode"
     },
